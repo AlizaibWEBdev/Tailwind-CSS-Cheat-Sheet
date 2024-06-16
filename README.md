@@ -1,5 +1,7 @@
 # Tailwind CSS Cheat Sheet
 
+![Screenshot](SharedScreenshot.jpg)
+
 This repository contains a dynamic cheat sheet for Tailwind CSS properties, built using HTML, CSS, and JavaScript. It provides a categorized view of common CSS properties along with their Tailwind CSS equivalents.
 
 ## Table of Contents
